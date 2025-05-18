@@ -1,4 +1,4 @@
-# NAVisor - Map My India - Debug and Test Tool 👋
+# NAVisor - Map My India - Debug and Test Tool
 
 A React Native application for developers and testers to **interact with and debug NAVisor BLE devices**. It provides a simple UI to send commands, control brightness settings, and test navigation instructions via Bluetooth Low Energy (BLE).
 
